@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringLib", "MonitoringLib\MonitoringLib.csproj", "{4F64DB88-C332-45AA-BCA3-72D1BEC672E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringApp", "MonitoringApp\MonitoringApp.csproj", "{C091947E-0E60-411E-AC7D-69ED6C3B4F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmarking", "Benchmarking\Benchmarking.csproj", "{3511F874-65DD-45FF-80FA-F13E260942BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithTasks", "WorkingWithTasks\WorkingWithTasks.csproj", "{4A9E9ACA-85A8-4F20-A4AB-B707831965A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SynchronizingResourceAccess", "SynchronizingResourceAccess\SynchronizingResourceAccess.csproj", "{20852A74-BE44-458E-9D77-68F91C490F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfResponsive", "WpfResponsive\WpfResponsive.csproj", "{3B4A76A0-44AB-4D59-846D-7D81F8073DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F64DB88-C332-45AA-BCA3-72D1BEC672E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F64DB88-C332-45AA-BCA3-72D1BEC672E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F64DB88-C332-45AA-BCA3-72D1BEC672E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F64DB88-C332-45AA-BCA3-72D1BEC672E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C091947E-0E60-411E-AC7D-69ED6C3B4F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C091947E-0E60-411E-AC7D-69ED6C3B4F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C091947E-0E60-411E-AC7D-69ED6C3B4F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C091947E-0E60-411E-AC7D-69ED6C3B4F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3511F874-65DD-45FF-80FA-F13E260942BF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{3511F874-65DD-45FF-80FA-F13E260942BF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{3511F874-65DD-45FF-80FA-F13E260942BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3511F874-65DD-45FF-80FA-F13E260942BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9E9ACA-85A8-4F20-A4AB-B707831965A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9E9ACA-85A8-4F20-A4AB-B707831965A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9E9ACA-85A8-4F20-A4AB-B707831965A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9E9ACA-85A8-4F20-A4AB-B707831965A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20852A74-BE44-458E-9D77-68F91C490F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20852A74-BE44-458E-9D77-68F91C490F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20852A74-BE44-458E-9D77-68F91C490F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20852A74-BE44-458E-9D77-68F91C490F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4A76A0-44AB-4D59-846D-7D81F8073DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4A76A0-44AB-4D59-846D-7D81F8073DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4A76A0-44AB-4D59-846D-7D81F8073DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4A76A0-44AB-4D59-846D-7D81F8073DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6370F7-C02F-4DAF-AAF7-9ABF8E259D66}
+	EndGlobalSection
+EndGlobal
